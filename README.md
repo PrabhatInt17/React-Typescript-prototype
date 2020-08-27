@@ -43,7 +43,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `animate.css`
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css" />
+[<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css" />]
 
 ## Learn More
 
